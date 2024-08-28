@@ -15,31 +15,49 @@ MonoBehaviour:
   buildDatas:
   - name: Wall 1x1
     price: 1
+    <Size>k__BackingField: {x: 1, y: 1}
     prefab: {fileID: 4975116725539624211, guid: cb433de6275ee994ead0782422d9c485, type: 3}
-  - name: Wall 1x1
-    price: 1
-    prefab: {fileID: 1974391383518369357, guid: 1ace5cb04deea4f4c8b0b0cbabf8af23, type: 3}
   - name: Wall 2x1
     price: 1
+    <Size>k__BackingField: {x: 2, y: 1}
     prefab: {fileID: 1875948693292496868, guid: d878ac85b1a5e6e4cb0dfc3bf1862a9b, type: 3}
   - name: Wall 3x1
     price: 1
+    <Size>k__BackingField: {x: 3, y: 1}
     prefab: {fileID: 4963052951235868017, guid: 177405ff211d13d478fef079853a323d, type: 3}
   - name: Wall door
     price: 1
-    prefab: {fileID: 1253309522983337128, guid: 9439edc72ee22fc4884b6979177c1bf0, type: 3}
-  - name: Wall door
-    price: 1
+    <Size>k__BackingField: {x: 2, y: 1}
     prefab: {fileID: 1253309522983337128, guid: 9439edc72ee22fc4884b6979177c1bf0, type: 3}
   - name: Wall window
     price: 1
+    <Size>k__BackingField: {x: 3, y: 1}
     prefab: {fileID: 7419764455772412608, guid: 2fab808e9a7611b4fa5a1e7f907288c3, type: 3}
+  - name: Wall window x2
+    price: 1
+    <Size>k__BackingField: {x: 3, y: 1}
+    prefab: {fileID: 5090758924466556658, guid: 8e669af8de8891c478a6c51413d56696, type: 3}
   - name: Wall big window
     price: 1
+    <Size>k__BackingField: {x: 3, y: 1}
     prefab: {fileID: 8020747876547593647, guid: d862c5113d14dc84ba63849e89153153, type: 3}
-  - name: Wall door
+  - name: Wall door 1x
     price: 1
+    <Size>k__BackingField: {x: 1, y: 1}
     prefab: {fileID: 1253309522983337128, guid: 9439edc72ee22fc4884b6979177c1bf0, type: 3}
-  - name: Wall door
+  - name: Wall door 3x
     price: 1
-    prefab: {fileID: 1253309522983337128, guid: 9439edc72ee22fc4884b6979177c1bf0, type: 3}
+    <Size>k__BackingField: {x: 0, y: 1}
+    prefab: {fileID: 4825419279566718854, guid: c39ac676c55b2c946a1098ec2585810e, type: 3}
+  - name: Wall wood decor
+    price: 1
+    <Size>k__BackingField: {x: 0, y: 1}
+    prefab: {fileID: 325877237888716246, guid: efbac02caa613304980582480fca58e9, type: 3}
+  - name: Wall wood n flower decor
+    price: 1
+    <Size>k__BackingField: {x: 2, y: 1}
+    prefab: {fileID: 2561880109785159006, guid: a0f6e234635168d43b7b0d8d5e361065, type: 3}
+  - name: Wall garage
+    price: 1
+    <Size>k__BackingField: {x: 3, y: 1}
+    prefab: {fileID: 5684852548413846245, guid: e1be42c098f9a5c4eb963d77e670c0c4, type: 3}

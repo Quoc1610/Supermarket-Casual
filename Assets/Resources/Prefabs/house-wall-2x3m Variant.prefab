@@ -9,7 +9,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 186861564399989812, guid: a03e714d166ffd54d81fa13b6d2dccf7, type: 3}
       propertyPath: m_Name
-      value: house-wall-2x3m
+      value: house-wall-2x3m Variant
       objectReference: {fileID: 0}
     - target: {fileID: 710457370195291790, guid: a03e714d166ffd54d81fa13b6d2dccf7, type: 3}
       propertyPath: m_RootOrder
@@ -17,7 +17,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 710457370195291790, guid: a03e714d166ffd54d81fa13b6d2dccf7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 18.03
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 710457370195291790, guid: a03e714d166ffd54d81fa13b6d2dccf7, type: 3}
       propertyPath: m_LocalPosition.y
@@ -25,7 +25,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 710457370195291790, guid: a03e714d166ffd54d81fa13b6d2dccf7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -8.23
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 710457370195291790, guid: a03e714d166ffd54d81fa13b6d2dccf7, type: 3}
       propertyPath: m_LocalRotation.w

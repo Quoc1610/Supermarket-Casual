@@ -9,7 +9,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1726736209610512, guid: 8057c8ff954aa4ec3afd2e48a73e1637, type: 3}
       propertyPath: m_Name
-      value: garage-withdoor
+      value: garage-withdoor Variant
       objectReference: {fileID: 0}
     - target: {fileID: 4079924287316550, guid: 8057c8ff954aa4ec3afd2e48a73e1637, type: 3}
       propertyPath: m_RootOrder
@@ -17,7 +17,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4079924287316550, guid: 8057c8ff954aa4ec3afd2e48a73e1637, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.59
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4079924287316550, guid: 8057c8ff954aa4ec3afd2e48a73e1637, type: 3}
       propertyPath: m_LocalPosition.y
@@ -25,7 +25,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4079924287316550, guid: 8057c8ff954aa4ec3afd2e48a73e1637, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -8.23
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4079924287316550, guid: 8057c8ff954aa4ec3afd2e48a73e1637, type: 3}
       propertyPath: m_LocalRotation.w

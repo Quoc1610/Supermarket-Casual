@@ -11,5 +11,8 @@ public class BuildItem
 {
     public string name;
     public string price;
+    [field: SerializeField]
+    public Vector2Int Size{get;private set;}=Vector2Int.one;
     public GameObject prefab;
+
 }
